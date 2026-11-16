@@ -1,45 +1,71 @@
-# Hi, I'm Alexander Ljungqvist 
 
-### Aspiring AI Developer | Software Engineer | AI Enthusiast
+<div align="center">
 
-I'm a software development student with a strong passion for artificial intelligence, software engineering and building intelligent solutions.
+# Alexander Ljungqvist
 
-My ambition is to become a highly skilled AI Developer, specializing in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and AI Engineering.
+### Software Developer | Aspiring AI Engineer
 
-I enjoy exploring new technologies, solving problems and turning ideas into practical applications. I believe in continuous learning, hands-on experience and building things that make a difference.
+Building software, exploring AI and turning ideas into real-world applications.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexanderljungqvist98)
+
+</div>
 
 ---
 
-## Technologies & Tools
+##  About Me
 
-**Languages**
-- C#
-- Python
-- JavaScript
-- TypeScript
-- SQL
+I'm a software development student passionate about technology, problem-solving and building useful applications.
 
-**Frameworks & Development**
-- .NET / ASP.NET Core
-- Node.js
-- React
-- Angular
+My journey started with software development, and I'm increasingly focusing on artificial intelligence and how it can be integrated into real-world solutions.
 
-**AI & Cloud**
-- Azure AI
-- Azure OpenAI
+I'm particularly interested in:
+
+- AI Engineering and intelligent applications
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
+- Backend development and system architecture
+- Building scalable and practical software
 
-**Tools**
-- Git & GitHub
-- Docker
-- PostgreSQL
-- Prisma
+My goal is to grow into a skilled AI Developer by combining strong software engineering fundamentals with modern AI technologies.
 
 ---
 
+##  Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,sql&theme=dark" />
+</p>
+
+**Frameworks & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,nodejs&theme=dark" />
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,sqlite,azure&theme=dark" />
+</p>
+
+---
+
+
 ## Featured Projects
+
+### SplitIt
+A full-stack expense-sharing application designed to help groups manage shared expenses, calculate balances and simplify settlements.
+
+**Tech:** Angular · TypeScript · Node.js · Prisma · PostgreSQL
+
+[Live Demo](https://splitit-grupp7.azurewebsites.net)
+
+*Developed as a collaborative group project. Source code is maintained in the group's repository.*
 
 ### Character Generator
 An AI-powered application built with React and .NET, integrating Azure OpenAI to generate characters and support AI-powered conversations.
@@ -47,23 +73,33 @@ An AI-powered application built with React and .NET, integrating Azure OpenAI to
 ### Image Analyzer
 An image analysis application using Azure AI Vision to extract information and insights from uploaded images.
 
-### SplitIt
-A full-stack expense-sharing application designed to help groups manage shared expenses, calculate balances and simplify settlements.
 
 ---
 
-## Currently Learning
+##  Currently Exploring
 
-- LLM Engineering
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Agents and AI-powered applications
+- AI Agents and intelligent workflows
 - Python for AI development
-- Building production-ready AI solutions
+- Azure AI and cloud-based AI solutions
 
 ---
 
-## My Goal
+##  GitHub Activity
 
-To become a successful AI Developer by continuously learning, building real-world applications and developing the skills needed to contribute to the future of artificial intelligence.
+<div align="center">
 
-**Always learning. Always building. Always improving.** 
+<img src="https://github-readme-stats.vercel.app/api?username=alexanderljungqvist98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderljungqvist98&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning. Always building. Always improving. 
+
+</div>
