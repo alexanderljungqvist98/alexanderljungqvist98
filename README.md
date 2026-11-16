@@ -1,4 +1,5 @@
-&#x20;\<div align="center">
+
+<div align="center">
 
 # Alexander Ljungqvist
 
@@ -6,11 +7,11 @@
 
 Building software, exploring AI and turning ideas into real-world applications.
 
-\<br/>
+<br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexanderljungqvist98)
 
-
-\</div>
+</div>
 
 ---
 
@@ -36,20 +37,21 @@ My goal is to grow into a skilled AI Developer by combining strong software engi
 
 **Languages**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=cs,python,js,ts,sql&theme=dark](https://skillicons.dev/icons?i=cs,python,js,ts,sql\&theme=dark)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,sql&theme=dark" />
+</p>
 
 **Frameworks & Development**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=dotnet,angular,react,nodejs&theme=dark](https://skillicons.dev/icons?i=dotnet,angular,react,nodejs\&theme=dark)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,nodejs&theme=dark" />
+</p>
 
 **Tools & Infrastructure**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,postgres,sqlite,azure&theme=dark](https://skillicons.dev/icons?i=git,github,docker,postgres,sqlite,azure\&theme=dark)" />
-\</p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,sqlite,azure&theme=dark" />
+</p>
 
 ---
 
@@ -99,18 +101,18 @@ A full-stack expense-sharing application designed to help groups manage shared e
 
 ## GitHub Activity
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=alexanderljungqvist98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=alexanderljungqvist98\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexanderljungqvist98&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderljungqvist98&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderljungqvist98\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderljungqvist98&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### Always learning. Always building. Always improving.
 
-\</div>
+</div>
